@@ -1,0 +1,27 @@
+body {
+  background-color: #0f0f1f;
+  color: #ffffff;
+}
+
+.neon-text {
+  color: #00f0ff;
+  text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff;
+}
+
+.neon-border {
+  border-bottom: 2px solid #00f0ff;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.btn-outline-info {
+  border-color: #00f0ff;
+  color: #00f0ff;
+}
+.btn-outline-info:hover {
+  background-color: #00f0ff;
+  color: #0f0f1f;
+}
